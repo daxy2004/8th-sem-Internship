@@ -10,8 +10,7 @@ Each project is organized in its own subfolder with its own `README.md`.
 | # | Project | Tech Stack | Description |
 |---|---|---|---|
 | 1 | [GlobalXcelerate](./GlobalXcelerate/) | React 19 / TypeScript / Vite | Corporate website for an international education & career accelerator with offices in UAE, Singapore, and India |
-
-> *More projects will be added as the internship progresses.*
+| 2 | [HouseOfAbundance](./HouseOfAbundance/) | React 19 / TypeScript / Vite | NGO website for a non-profit empowering women, children, and communities through education and skill development |
 
 ---
 
@@ -36,6 +35,33 @@ A fully responsive, multi-page corporate website that serves as the digital face
 - 📱 **Fully Responsive** — optimized for mobile, tablet, and desktop
 - ⚡ **Fast & Modern** — Vite-powered build, TypeScript for type safety
 - 🎨 **Custom Design System** — hand-crafted CSS with animations, glassmorphism effects, and a consistent brand identity
+
+---
+
+## 🌿 Project 2 — House of Abundance Foundation Website
+
+**House of Abundance Foundation** is a non-profit organisation built on four pillars — **Education, Equality, Environment, and Empowerment**. It works with children, youth, and women from underserved communities to ensure that lack of money, exposure, or opportunity never limits their potential.
+
+### What We Built
+
+A fully responsive, multi-page SPA that serves as the digital face of the foundation. The website:
+
+- Showcases the foundation's **mission, impact, and values** with a hero video homepage
+- Features a **Scholarship & Skill Development** programmes page
+- Includes a **Women Empowerment Programme** and **School Transformation** initiative pages
+- Provides a **Donate** page with giving options and impact transparency
+- Has a **Work With Us** page for volunteers and open positions
+- Includes a **Contact Us** page for outreach and partnerships
+- Features an **auto-scrolling partners carousel** and beneficiary **testimonials**
+
+### Key Highlights
+
+- 🌿 **Nature-inspired Design System** — Earthy greens and warm tones reflecting the foundation's values
+- 📱 **Fully Responsive** — Optimised for mobile, tablet, and desktop
+- 🎬 **Hero Video Background** — Immersive full-screen video experience on the homepage
+- 🔄 **Auto-scrolling Partners Carousel** — Smooth infinite-loop CSS animation
+- 📊 **Impact Stats** — 3,000+ women empowered, 500,000+ school students, 85% placement rate
+- ⚡ **Fast & Modern** — Powered by rolldown-vite for lightning-fast builds
 
 ---
 
