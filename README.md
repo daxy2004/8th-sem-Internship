@@ -46,6 +46,7 @@ A fully responsive, multi-page corporate website that serves as the digital face
 | Dhruv Aruna Kumar | 20221CIT0041 |
 | Syed Najeeb Peerzade | 20221CIT0028 |
 | Sarfarab B Tonshyal | 20221CIT0029 |
+| Syed Abdullah Hussaini | 20221CIT0034 |
 
 ---
 
